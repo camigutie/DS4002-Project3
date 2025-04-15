@@ -52,5 +52,6 @@ Recreating our dataset requires the following dependencies:
 To recreate our analysis, run analysis.ipynb.
 
 ## (4) References
-[1] T. Han et al., “Learning from Streaming Video with Orthogonal Gradients,” Apr. 02, 2025, arXiv: arXiv:2504.01961. doi: 10.48550/arXiv.2504.01961.; H. Wang, F. Liu, J. Chi, and Y. Duan, “VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step,” Apr. 02, 2025, arXiv: arXiv:2504.01956. doi: 10.48550/arXiv.2504.01956.; W. Wang et al., “Image Difference Grounding with Natural Language,” Apr. 02, 2025, arXiv: arXiv:2504.01952. doi: 10.48550/arXiv.2504.01952.
+[1] T. Han et al., “Learning from Streaming Video with Orthogonal Gradients,” Apr. 02, 2025, arXiv: arXiv:2504.01961. doi: 10.48550/arXiv.2504.01961.; H. Wang, F. Liu, J. Chi, and Y. Duan, “VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step,” Apr. 02, 2025, arXiv: arXiv:2504.01956. doi: 10.48550/arXiv.2504.01956.; W. Wang et al., “Image Difference Grounding with Natural Language,” Apr. 02, 2025, arXiv: arXiv:2504.01952. doi: 10.48550/arXiv.2504.01952. 
+
 [2] P. Messier, “Notes on Dating Photographic Paper (2006),” Issues in the Conservation of Photographs, vol. 3, p. 98, Jan. 2010. 
