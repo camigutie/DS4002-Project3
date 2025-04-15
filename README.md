@@ -31,9 +31,9 @@ OUTPUT FOLDER:
 
 
 SCRIPTS FOLDER:
-* **[SCRIPTS/eda.ipynb](SCRIPTS/eda.ipynb)**: This script uses raw data to perform exploratory data analysis and generate visualizations.
+* **[SCRIPTS/eda.ipynb](SCRIPTS/eda.ipynb)**: This script uses raw data to perform exploratory data analysis and generate visualizations. The dataset of historical color photos is categorized by decade and image features like brightness and contrast are extracted. Feature trends are visualized over time. 
 * **[SCRIPTS/make_data.ipynb](SCRIPTS/make_data.ipynb)**: This script uses raw data to create the established dataset. 
-* **[SCRIPTS/analysis.ipynb](SCRIPTS/analysis.ipynb)**: This script uses the established data set to perform analysis and generate visualizations.
+* **[SCRIPTS/analysis.ipynb](SCRIPTS/analysis.ipynb)**: This script uses the established data set to perform analysis and generate visualizations. We use convolutional neural networks (CNNs) to extract spatial and color-based features that define each decade’s photographic style. The model will then be trained using supervised classification techniques, including CNNs and k-nearest neighbors (KNN), to assess how well different approaches can classify images based on their color composition. Our analysis will follow three main steps: model definition, training, and performance evaluation. 
 
 ## (3) Result Replication
 
