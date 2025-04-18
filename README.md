@@ -5,20 +5,21 @@
 ## (1) Software and Platform
 Software type: Python 
 
-Packages: 
-* Pandas Package
-* Numpy Package
-* OS Package
-* Scipy.io Package
-* Imageio.v2 Package
-* Seaborn Package
-* Matplotlib Package
-* PyTorch Package
-* PIL.Image Package  
+*Pandas Package
+*Numpy Package
+*OS Package
+*Pathlib Package
+*Torch Package (PyTorch)
+*Torchvision Package
+*PIL (Pillow) Package
+*Seaborn Package
+*Matplotlib Package
+*Scikit-learn Package
+ 
 
 Platform: Mac/Windows
 ## (2) A Map of Documentation
-This repository contains the contents necessary to implement our sentiment analysis which consists of 3 main folders:
+This repository contains the contents necessary to implement our sentiment analysis, which consists of 3 main folders:
 
 DATA FOLDER: 
 * The data folder becomes populated when you run the "make data" file in the SCRIPTS FOLDER. It has two terminal commands.   
